@@ -3350,17 +3350,17 @@
         },
         {
             "name": "drupal/islandora",
-            "version": "2.11.0",
+            "version": "2.12.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/islandora.git",
-                "reference": "2.11.0"
+                "reference": "2.12.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/islandora-2.11.0.zip",
-                "reference": "2.11.0",
-                "shasum": "6677ac14f2c901a5d76297009d2f6e83b1bdf4b6"
+                "url": "https://ftp.drupal.org/files/projects/islandora-2.12.2.zip",
+                "reference": "2.12.2",
+                "shasum": "0d3a73a4bd13cdd29f4d39e8e7217f2e433bebda77b80961b5423b5e515ab544"
             },
             "require": {
                 "drupal/context": "^4 || ^5@RC",
